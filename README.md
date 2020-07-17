@@ -29,6 +29,7 @@
  [vant 2.x](https://youzan.github.io/vant/#/zh-CN/intro) 实现。
  
  使用了最新的Vue全家桶技术栈，以及一些优秀的开源库如
+ - [VantUI示例参考](https://youzan.github.io/vant/mobile.html#/zh-CN/)
  - [better-scroll](http://ustbhuangyi.github.io/better-scroll/doc/api.html) 
  - [moment.js](https://github.com/moment/moment/) 
  - [twix.js](https://github.com/icambron/twix.js) 
